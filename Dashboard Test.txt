@@ -1,0 +1,6 @@
+Feature 
+
+Scenario Login as a valid user
+given I login as valid username and pasword
+when i click the login button
+I should be able to login
