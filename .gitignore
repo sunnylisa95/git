@@ -1,3 +1,4 @@
 credentials.txt
 data/*.txt
+transactions/*.txt
 transactions/!debit.txt
