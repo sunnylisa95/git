@@ -4,4 +4,5 @@ Scenario Login as a valid user
 Given I login as valid username and pasword
 when i click the login button
 I should be able to login
-Then I should see the homepage
+Then i should see the Account tabs
+
